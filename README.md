@@ -12,4 +12,4 @@ This data is from Brainpal code academy
  [powerbi 2.png](https://github.com/ammie95/sales-performance/blob/main/powerbi%202.png)
  [powerbib.png](https://github.com/ammie95/sales-performance/blob/main/powerbib.png)
  ## SQL ANALYSIS 
- [sql.png](
+ [sql.png](https://github.com/ammie95/sales-performance/blob/main/sql.png)
