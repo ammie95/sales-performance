@@ -10,4 +10,6 @@ This data is from Brainpal code academy
 [mysql sales data a,b,c,d,e..sql](https://github.com/ammie95/sales-performance/blob/main/mysql%20sales%20data%20a%2Cb%2Cc%2Cd%2Ce..sql)
  ## DASHBOARD (POWERBI)
  [powerbi 2.png](https://github.com/ammie95/sales-performance/blob/main/powerbi%202.png)
- [powerbib.png](
+ [powerbib.png](https://github.com/ammie95/sales-performance/blob/main/powerbib.png)
+ ## SQL ANALYSIS 
+ [sql.png](
